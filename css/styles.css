@@ -268,9 +268,7 @@ body {
 }
 .portfolio-img {
   background-color: #ffffff;
-}
-.portfolio-img-border {
-  border: 1px solid #e7e9fc;
+  border-bottom: 1px solid #e7e9fc;
 }
 .portfolio-list-title {
   font-weight: 500;
