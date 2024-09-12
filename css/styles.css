@@ -260,6 +260,9 @@ body {
   flex-direction: column;
   flex-wrap: wrap;
   gap: 24px 48px;
+  border-bottom: 1px solid #e7e9fc;
+  border-right: 1px solid #e7e9fc;
+  border-left: 1px solid #e7e9fc;
 }
 .portfolio-list {
   display: flex;
@@ -268,7 +271,9 @@ body {
 }
 .portfolio-img {
   background-color: #ffffff;
-  border-bottom: 1px solid #e7e9fc;
+}
+.portfolio-list-item {
+  width: 360px;
 }
 .portfolio-list-title {
   font-weight: 500;
